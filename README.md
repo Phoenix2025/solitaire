@@ -1,3 +1,3 @@
 # solitaire
 
-![image](.\pic\solitaire.png)
+![image](./pic/solitaire.png)
